@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"GetBlockOfAssetsByCompany"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"python",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shahbaz/python/trydjango"
+	],
+	"file_history":
+	[
+		"/Users/shahbaz/Library/Jupyter/runtime/nbserver-8437-open.html",
+		"/Users/shahbaz/Downloads/Category_SubType_Type/category_type_subtype/category_type_subtype.component.html",
+		"/Users/shahbaz/Desktop/todos",
+		"/Users/shahbaz/Desktop/Unknown.svg",
+		"/Users/shahbaz/Desktop/Untitled.txt",
+		"/Users/shahbaz/Desktop/AssetAudit/updateInventoryStatus.js",
+		"/Users/shahbaz/Desktop/InventoryStatus/InventoryStatus.JS",
+		"/Users/shahbaz/Desktop/InventoryStatus/InventoryStatus.HTML",
+		"/Users/shahbaz/Desktop/updates",
+		"/Users/shahbaz/Desktop/New folder/JS",
+		"/Users/shahbaz/Desktop/New folder/HTML",
+		"/Users/shahbaz/Desktop/New folder/methods",
+		"/Users/shahbaz/Downloads/CompanyBlockService.js",
+		"/Users/shahbaz/Desktop/untitled folder/asset_class.component.ts",
+		"/Users/shahbaz/Desktop/untitled folder/asset_class.component.html",
+		"/Users/shahbaz/Downloads/New folder/JS",
+		"/Users/shahbaz/Downloads/New folder/HTML",
+		"/Users/shahbaz/Desktop/python.py",
+		"/Users/shahbaz/Downloads/New folder/methods",
+		"/Users/shahbaz/Documents/Csharp/MyApplication/Animal.cs",
+		"/Users/shahbaz/tfsAssertrek/AssetrakWithAngular10_Repo/AssetrakClient/README.md",
+		"/Users/shahbaz/Documents/Csharp/BricksCalculator.cs",
+		"/Users/shahbaz/Documents/Csharp/RectangleApplication.cs",
+		"/Users/shahbaz/Desktop/hello.cs",
+		"/Users/shahbaz/Downloads/save3ds-v1/README.md",
+		"/Users/shahbaz/Desktop/d0:28:ba:b4:64:34",
+		"/Users/shahbaz/Downloads/Game Library/roms/Sega Saturn/bomberman/bomberman.cue",
+		"/Users/shahbaz/Downloads/Saturn Bomberman (U)(Saturn)/bomberman.cue",
+		"/Users/shahbaz/Desktop/UP20AC0498",
+		"/Users/shahbaz/Desktop/retroarch.cfg.txt",
+		"/Users/shahbaz/Desktop/retroarch.cfg",
+		"/Users/shahbaz/Downloads/Sonic & Knuckles + Sonic The Hedgehog 3 (USA).md",
+		"/Users/shahbaz/Downloads/dummy.pkg.897.v1.6.9_brewology_com.pkg",
+		"/Users/shahbaz/Downloads/Game Library/roms/Sony Playstation/Tekken 3.cue",
+		"/Users/shahbaz/Downloads/Rayman 2 the Great Escape (U) [SLUS-01235]/Rayman 2 - The Great Escape [U] [SLUS-01235].cue",
+		"/Users/shahbaz/.config/Ryujinx/keys/prod.keys",
+		"/Users/shahbaz/Downloads/PKGI/pkgi.txt",
+		"/Users/shahbaz/.flashTool/config.properties",
+		"/Users/shahbaz/.flashTool/devices/README.md",
+		"/Users/shahbaz/Downloads/com.aefyr.sai_1.27-28_minAPI21(nodpi)_apkmirror.com/AndroidManifest.xml",
+		"/Users/shahbaz/Downloads/PS3HEN.BIN_CEX_484",
+		"/Users/shahbaz/My Files/The Last Of Us/PS3xploit-resigner-3.0.0/README.md",
+		"/Users/shahbaz/ghost/data/grabber/grabber.sh",
+		"/Users/shahbaz/ghost/data/payloads/download",
+		"/Users/shahbaz/Downloads/CF-Auto-Root-hammerhead-hammerhead-nexus5/root-mac.sh",
+		"/Users/shahbaz/Downloads/cfar_lge_lg-h502_my90ds_global_com_lrx21y_t1/root.bat",
+		"/Users/shahbaz/ghost/data/check/rcheck.sh",
+		"/Users/shahbaz/ghost/data/payloads/shell",
+		"/Users/shahbaz/ghost/bin/ghost",
+		"/Users/shahbaz/ghost/data/payloads/wifi",
+		"/Users/shahbaz/ghost/data/keycode/keycode.sh",
+		"/Users/shahbaz/ghost/data/keyboard/keyboard.sh",
+		"/Users/shahbaz/ghost/data/check/check.sh",
+		"/Users/shahbaz/ghost/data/check/dcheck.sh",
+		"/Users/shahbaz/SharedFolder/Ares.lnk",
+		"/Users/shahbaz/Desktop/untitled.html",
+		"/Users/shahbaz/softap.conf",
+		"/Users/shahbaz/google.id",
+		"/Users/shahbaz/Desktop/com.apple.Bluetooth.plist",
+		"/Users/shahbaz/Desktop/Max Payne 3/BLES00942/PS3_GAME/USRDIR/ps3/levels/s_club/clb_blcny01.rpf",
+		"/Users/shahbaz/Downloads/@westworld.S03E06/Westworld.S03E06.Repack.720p.1080p.Web.h264-BTX.srt",
+		"/Users/shahbaz/Downloads/@westworld.S03E06/Westworld.S03E06.WEB.H264-iNTERNAL.srt",
+		"/Users/shahbaz/Downloads/@westworld.S03E06/Westworld.S03E06.720p.1080p.Web.h264-BTX.srt",
+		"/Users/shahbaz/Downloads/@westworld.S03E06/Westworld.S03E06.720p.1080p.WEB.H264-AMZN.NTb+ION10.srt",
+		"/Users/shahbaz/Desktop/Password: vn-sharing.net",
+		"/Users/shahbaz/Downloads/%27%20or%20%27%27%3D%27",
+		"/Users/shahbaz/Downloads/movies/Mrs Doubtfire (1993) [1080p]/Mrs.Doubtfire.1993.720p.BrRip.x264.YIFY.srt",
+		"/Users/shahbaz/Desktop/JOdin3CASUAL-r1035-dist/com/javafx/main/Main.class",
+		"/Users/shahbaz/Desktop/ ƒƒåf.htm",
+		"/FireVaultKey"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
