@@ -1,6 +1,6 @@
 # Django-Project
 
-Simple Django webapp consists of:
+Simple Django project consists of:
 - Blog app:
   - User can add/edit/delete title, content & toggle active.
   
