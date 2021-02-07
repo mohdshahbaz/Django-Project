@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+:root {
+	--text-color: #3f4206;
+	--color-primary: #7e850b;
+	--color-warn: #d9534f;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Lato', 'sans-serif';
+	color: #333;
+	line-height: 1.6;
+}
+
+.container {
+	max-width: 1100px;
+	margin: 0 auto;
+	overflow: auto;
+	padding: 0 40px;
+}
+
+.flex {
+	display: flex;
+}
+
+.navbar {
+	background-color: #9ea612;
+	color: #fff;
+}
+
+.navbar .logo:hover {
+	transform: scale(0.98);
+}
+
+.navbar .flex {
+	justify-content: space-between;
+}
+
+.navbar ul {
+	display: flex;
+	list-style-type: none;
+}
+
+.navbar li {
+	padding: 10px 10px 5px 10px;
+	margin: 0 5px;
+}
+
+.navbar li:hover {
+	border-bottom: solid 2px #fff; 
+	cursor: pointer;
+}
+
+.card {
+	background-color: #fff;
+	/* border-radius: 10px; */
+	color: #333;
+	box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+	padding: 20px;
+	margin: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+section a{
+	color: var(--text-color);
+}
+
+.list-view {
+	padding: 10px 0;
+}
+
+.list-view ol {
+	color: var(--text-color);
+	font-size: 1.5em;
+	line-height: 1.4;
+	padding-left: 20px;
+}
+
+.list-view .add-btn {
+	margin-top: 10px;
+}
+
+.list-view .card {
+	margin: auto;
+}
+
+.details-view {
+	padding: 10px 0;
+	color: var(--text-color);
+}
+
+.details-view h1 {
+	font-size: 1.5em;
+}
+
+.details-view .card {
+	margin: 0 auto;
+}
+
+.action-buttons {
+	padding: 5px 0;
+}
+
+.btn {
+	padding: 5px 15px;
+	background-color: #7e850b;
+	color: #fff;
+	border-radius: 5px;
+	display: inline-block;
+	border: none;
+}
+
+.btn:hover {
+	font-weight: normal;
+	transform: scale(0.98);
+}
+
+.del {
+	background-color: #d9534f;
+}
+
+.create-view {
+	color: var(--text-color);
+}
+
+.create-view .card {
+	margin: 10px auto;
+}
+
+.create-view form input[type="text"]:focus, 
+input[type="number"]:focus,
+textarea:focus {
+	outline: none;
+}
+
+.create-view form input[type="text"], 
+input[type="number"],
+textarea {
+	border: 1px solid var(--color-primary);
+	font-family: 'Lato', 'sans-serif';
+	margin: 10px 0;
+	font-size: large;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.create-view form input[type="submit"] {
+	background-color: var(--color-primary);
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	padding: 8px 24px;
+	border-radius: 5px;
+	margin: 10px 5px 0 0;
+}
+
+.create-view form label {
+	font-size: medium;
+}
+
+.delete-view .form input[type="submit"] {
+	background-color: var(--color-warn);
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	padding: 8px 24px;
+	border-radius: 5px;
+	margin: 0 5px 0 0;
+}
+
+.delete-view .form input[type="submit"]:hover {
+	transform: scale(0.98);
+}
+
+.delete-view .container {
+	margin: 10px auto;
+}
+
+.home-view .container {
+	margin: 10px auto;
+}
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+{%extends 'base.html'%}
+{%block content%}
+
+<section class="create-view">
+	<div class="container card">
+		{%if form.title.value == None %}
+			<h1>Add Blog<h1>
+		{%else%}
+			<h1>Update Blog</h1>
+		{%endif%}
+		<form method="POST"> {%csrf_token%}
+			{{form.as_p}}
+			<input class='btn' type='submit' value='save'/>
+		</form>
+	</div>
+</section>
+
+{%endblock%}

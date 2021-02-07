@@ -1,0 +1,18 @@
+{% extends 'base.html'%}
+{%block content%}
+
+<section class="details-view">
+	<div class="container card">
+		<h1>Title:</h1><p>{{object.title}}</p>
+		<h2>Content:</h2>
+		<p>{{object.content}}</p>
+		<h2>Active:</h2>		
+		<p>{{object.active}}</p>
+		<div class="action-buttons">
+			<a class="btn" href="update">Edit</a>
+			<a class="btn del" href="delete">Delete</a>
+		</div>
+	</div>
+</section>
+
+{%endblock%}

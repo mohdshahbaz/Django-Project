@@ -1,0 +1,21 @@
+{%extends 'base.html'%}
+{%block content%}
+
+<section class="list-view">
+	<div class="container card">
+			<div class="list-item">
+				<ol>
+					{% for instance in object_list %}
+						<li>
+							<a href="{% url 'articles:article-detail' pk=instance.pk %}">{{instance.title}}</a>
+						</li>
+					{% endfor %}
+				</ol>
+			</div>
+			<div class="add-btn">
+				<a href="/blog/create" class="btn">Add New</a>	
+			</div>
+	</div>
+</section>
+
+{%endblock%} 
